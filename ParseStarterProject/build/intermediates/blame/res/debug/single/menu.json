@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Android\\DemoApp\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\menu\\share_menu.xml",
+        "source": "C:\\Android\\DemoApp\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\menu\\share_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\robpercival\\Desktop\\Whatsapp\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\menu\\share_menu.xml",
+        "source": "C:\\Users\\robpercival\\Desktop\\Whatsapp\\ParseStarterProject\\src\\main\\res\\menu\\share_menu.xml"
+    },
+    {
+        "merged": "C:\\Android\\DemoApp\\InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\menu\\share_menu.xml",
+        "source": "C:\\Android\\DemoApp\\InstagramClone\\ParseStarterProject\\src\\main\\res\\menu\\share_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\menu\\share_menu.xml",
+        "source": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\src\\main\\res\\menu\\share_menu.xml"
+    }
+]

@@ -1,0 +1,7 @@
+#Mon May 22 15:24:17 CAT 2017
+base.0=C\:\\Android\\DemoApp\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_4d5e108112d721af66c13c1ad862bb5a89b066b5
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Android\\DemoApp\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_607110ab381bb89e69d3b6e1e32f0b20ff44c839\\classes.dex
+base.1=C\:\\Android\\DemoApp\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_607110ab381bb89e69d3b6e1e32f0b20ff44c839
+file.0=C\:\\Android\\DemoApp\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_4d5e108112d721af66c13c1ad862bb5a89b066b5\\classes.dex
